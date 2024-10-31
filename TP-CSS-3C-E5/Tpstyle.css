@@ -36,16 +36,6 @@ main{
 h1, h2, h4{
     color: rgb(59, 10, 78);
 }
-span{
-    color:rgb(249, 201, 253);
-}
-th, td{
-    padding: 10px;
-    text-align: left;
-}
-th{
-    background-color:palevioletred;
-}
 img{
     width: 400px;
     height:auto;
